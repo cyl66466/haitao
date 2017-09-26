@@ -19,10 +19,10 @@
             <a href="">
                 <dl>
                     <dt>
-                        <img src="../assets/images/user.png" />
+                        <img src="../assets/images/tou.png" />
                     </dt>
                     <dd>
-                        <h4>hjl416148489<span>普通会员</span></h4>
+                        <h4>hello 66<span>普通会员</span></h4>
                         <p><span>积分：<i>30</i></span>&nbsp;&nbsp;<span>红包：<i>0</i></span></p>
                     </dd>
                 </dl>
