@@ -24,7 +24,6 @@ export default{
 		this.swiper();
 	},
 	methods:{
-
 		swiper(){
 
 			$(function(){
